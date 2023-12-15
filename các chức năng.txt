@@ -1,0 +1,4 @@
+Chức năng của trang web
+1. Tài khoản người dùng: Đăng ký và đăng nhập để quản lý thông tin cá nhân, theo dõi đơn hàng.
+2. Tìm kiếm: Tìm kiếm sản phẩm theo từ khóa, loại sản phẩm.
+3. Giỏ hàng và thanh toán: Cho phép người dùng thêm sản phẩm vào giỏ hàng, tiến hành thanh toán thông qua các phương thức thanh toán.
